@@ -1,0 +1,512 @@
+[
+    {
+        "row": "2",
+        "Description": "Measuring bicyle traffic flows to increase mobility",
+        "ID": "6",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Bicycle traffic flows",
+        "Clusters_auto": "Bicycles, Planning , People flow, Accessibility",
+        "Topics_auto": "Bicycle flows, Promote cycling"
+    },
+    {
+        "row": "3",
+        "Description": "Tracking passengers both pedestrians and cyclist going past a measuring spot in both directions (with full anonymity and GDPR compliance).",
+        "ID": "7",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Crowd & traffic monitoring",
+        "Clusters_auto": "People flow, Bicycles, Tracking",
+        "Topics_auto": "Tracking passengers, Measuring spot"
+    },
+    {
+        "row": "4",
+        "Description": "Using loading spaces for delivery vehicles in the city centre in an efficient way",
+        "ID": "11",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Loading space for delivery vehicles",
+        "Clusters_auto": "Electric vehicles, Traffic Management, Planning ",
+        "Topics_auto": "Loading space, Delivery vehicle, City centre"
+    },
+    {
+        "row": "5",
+        "Description": "Giving access for alle relevant people to public gates, rising bollards, ... while maintaining governance and security",
+        "ID": "2",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Maintain security with smart access",
+        "Clusters_auto": "Accessibility",
+        "Topics_auto": "Smart access, Disabled citizen, Suitable access, Feedback, Rating service"
+    },
+    {
+        "row": "6",
+        "Description": "Measuring the speed on bike lanes and create measures to slow down speeding cyclist when necessary",
+        "ID": "4",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Measuring speedy cyclists",
+        "Clusters_auto": "Bicycles, People flow, Awareness, Roads, Traffic Management",
+        "Topics_auto": "Speed, Promote cycling, Inform citizen"
+    },
+    {
+        "row": "7",
+        "Description": "Measuring winter road conditions on bike lanes, grit lanes selectively to inform the public about it ",
+        "ID": "12",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Measuring winter conditions",
+        "Clusters_auto": "Roads, Traffic Management",
+        "Topics_auto": "Winter Conditions, Current state, Inform citizen"
+    },
+    {
+        "row": "8",
+        "Description": "Monitoring road works progress continually and within the agreed upon time frame",
+        "ID": "13",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Road works monitoring (Aarhus)",
+        "Clusters_auto": "Roads, Sensors, Traffic Management",
+        "Topics_auto": "Monitoring , Progress, Road works"
+    },
+    {
+        "row": "9",
+        "Description": "Visualising if trashcans are full or empty, both on the street and digitally on maps",
+        "ID": "43",
+        "Theme": "Waste",
+        "City": "Aarhus",
+        "Title": "Smart waste management (challenge)",
+        "Clusters_auto": "Waste , Sensors",
+        "Topics_auto": "IoT-data, Smart waste management, Visualisation, Map, Waste management"
+    },
+    {
+        "row": "10",
+        "Description": "Tracking the position and status of non-fixed city property ie. cars, lorries, large tools, signage,... in real time (or selected intervals) to minimize lost stuff, theft, ...",
+        "ID": "1",
+        "Theme": "Mobility",
+        "City": "Aarhus",
+        "Title": "Tracking non-fixed city property",
+        "Clusters_auto": "Tracking, Sensors",
+        "Topics_auto": "Non-fixed property, City property, Real-time, Real-time data"
+    },
+    {
+        "row": "11",
+        "Description": "Gathering all relevant data and make them easily available for long-term and short-therm mobility- and cityplanning",
+        "ID": "25",
+        "Theme": "Mobility",
+        "City": "Bergen",
+        "Title": "Sustainable city- & mobility planning",
+        "Clusters_auto": "Planning , City development ",
+        "Topics_auto": "Data, City planning, Long-term, Short-term, Mobility planning"
+    },
+    {
+        "row": "12",
+        "Description": "Integrating sustainable mobility solutions in a package that could work as a real alternative to private car use.",
+        "ID": "21",
+        "Theme": "Mobility",
+        "City": "Bergen",
+        "Title": "Sustainable mobility solutions",
+        "Clusters_auto": "Modal shift, Awareness, Energy, Traffic Management",
+        "Topics_auto": "Mobility solutions, Alternative to private car, Promote cycling, Carsharing, Bike services, Financial structure"
+    },
+    {
+        "row": "13",
+        "Description": "Monitoring local conditions to promote air quality awareness (at schools and community groups by using and monitoring their own sensors)",
+        "ID": "38",
+        "Theme": "Environment ",
+        "City": "Bradford",
+        "Title": "Air quality awareness",
+        "Clusters_auto": "Air Quality, Awareness, Sensors, Community ",
+        "Topics_auto": "Local conditions, School groups, Community groups, Sensor data"
+    },
+    {
+        "row": "14",
+        "Description": "Monitoring municipal energy usage / carbon footprint by using energy consumption statistics from public buildings and street lighting. Relate energy usage to percentage of 'green' energy used to show evolution",
+        "ID": "42",
+        "Theme": "Environment ",
+        "City": "Bradford",
+        "Title": "Awareness of public energy usage",
+        "Clusters_auto": "Energy, Awareness, Community ",
+        "Topics_auto": "Municipal energy usage, Carbon footprint, Static data, Energy usage, Consumption statistics, Public buildings, Street lights, Green energy usage"
+    },
+    {
+        "row": "15",
+        "Description": "Validate real time data of city traffic modelling for road congestion, to identify unusual /unexpected traffic activity",
+        "ID": "16",
+        "Theme": "Mobility",
+        "City": "Bradford",
+        "Title": "City traffic modelling (challenge)",
+        "Clusters_auto": "Traffic Management, Roads",
+        "Topics_auto": "Real-time data, City traffic modelling, Traffic activity, Structural Monitoring, Congestion"
+    },
+    {
+        "row": "16",
+        "Description": "Enabling community interest groups to crowdsource relevant data to OpenStreetMap. Specific themes could be populated, for example green space, brown field sites for development and other land use categories. The improved and more complete coverage can be used by municipalities to inform planning of blue-green infrastructure, climate change adaptation and so on.",
+        "ID": "41",
+        "Theme": "Environment ",
+        "City": "Bradford",
+        "Title": "Crowdsourcing to OpenStreetMap to create awareness",
+        "Clusters_auto": "Crowdsourcing, Community , Green infrastructure , Awareness",
+        "Topics_auto": "Community interest groups, OpenStreetMap, Inform citizen"
+    },
+    {
+        "row": "17",
+        "Description": "Identify cyclists from pedestrians to ensure appropriate crossing usage (cyclist have priority over pedestrians) ",
+        "ID": "8",
+        "Theme": "Mobility",
+        "City": "Bradford",
+        "Title": "Cycling crossing usage",
+        "Clusters_auto": "People flow, Bicycles, Traffic Management",
+        "Topics_auto": "Crossing usage, Identify passengers, Promote cycling"
+    },
+    {
+        "row": "18",
+        "Description": "Creating an interactive map of the city centre accessibility for disabled citizens by using existing information to identify suitable access routes and enable feedback from citizens to improve data and rate services",
+        "ID": "3",
+        "Theme": "Mobility",
+        "City": "Bradford",
+        "Title": "Interactive mapping accessibility",
+        "Clusters_auto": "Accessibility, Planning , Crowdsourcing, Community ",
+        "Topics_auto": "Disabled citizen, Suitable access, Feedback, Rating service"
+    },
+    {
+        "row": "19",
+        "Description": "Monitoring  local conditions to establish effect of traffic congestion, weather, industry and other influences on air quality readings.",
+        "ID": "39",
+        "Theme": "Environment ",
+        "City": "Bradford",
+        "Title": "Monitoring local conditions",
+        "Clusters_auto": "Air Quality, Sensors",
+        "Topics_auto": "Sensor data, Static data, Historical data, Industry, Congestion, Weather"
+    },
+    {
+        "row": "20",
+        "Description": "Enable people to easily find community support  (by creating searchable directiory of community interest by theme and location and encourage interest groups to register)",
+        "ID": "47",
+        "Theme": "Meta",
+        "City": "Bradford",
+        "Title": "Stimulate community support",
+        "Clusters_auto": "Community , Engagement",
+        "Topics_auto": "Community interest groups"
+    },
+    {
+        "row": "21",
+        "Description": "Identify traffic accident hotspots by using traffic management data, citizen reporting, accident statistics to lower the accidents over time",
+        "ID": "27",
+        "Theme": "Mobility",
+        "City": "Bradford",
+        "Title": "Traffic accident hotspots",
+        "Clusters_auto": "Accident, Awareness, Crowdsourcing",
+        "Topics_auto": "Static data, Accident hotspots, Citizen reporting"
+    },
+    {
+        "row": "22",
+        "Description": "Visualising the parking sports for charcing electric cars / bikes and the usage information (occupied or not).",
+        "ID": "10",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Availability of charching spots",
+        "Clusters_auto": "Electric vehicles, Bicycles, Modal shift, Sensors",
+        "Topics_auto": "Charging spots"
+    },
+    {
+        "row": "23",
+        "Description": "Creating a smart crowsourcing system that gathers subjective information on 'feeling good here/feeling unsafe' biking zones in the city",
+        "ID": "29",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Crowdsourcing subjective info on biking zones",
+        "Clusters_auto": "Crowdsourcing, Bicycles",
+        "Topics_auto": "Crowdsourcing system, Subjective information, Biking zones, Safe / unsafe, Promote cycling"
+    },
+    {
+        "row": "24",
+        "Description": "How to create a financial structure in which people who are eligble for transport compensation to have access to all the needed forms of transportation. Combined with a carsharing / bikesharing system",
+        "ID": "23",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Incentive the suitable way of moving",
+        "Clusters_auto": "Modal shift, Traffic Management, Energy, Awareness",
+        "Topics_auto": "Financial structure, Transport compensation, Carsharing, Bikesharing, Promote cycling"
+    },
+    {
+        "row": "25",
+        "Description": "Improve the retention of rainwater on a local level for re-use the households or to give back to local green structures and groundwater ",
+        "ID": "34",
+        "Theme": "Water",
+        "City": "Gent",
+        "Title": "Improve retention of rainwater",
+        "Clusters_auto": "Rainwater, Energy, Green infrastructure ",
+        "Topics_auto": "Retention , Local level, Re-use, Green structures, Groundwater"
+    },
+    {
+        "row": "26",
+        "Description": "Getting rid of weeds in the city without the use of pesticides, any by not only actions of the city, but how can we incentivize citizens and shopkeepers to work with us in keeping the city pesticide and weed free.",
+        "ID": "45",
+        "Theme": "Waste",
+        "City": "Gent",
+        "Title": "Incentiving a free weed & pesticide city",
+        "Clusters_auto": "Green infrastructure , Energy",
+        "Topics_auto": "Pesticides, Weeds, Incentive, Citizen reporting"
+    },
+    {
+        "row": "27",
+        "Description": "Managing how many people are at events and where they enter or leave the city/event for security, mobility, ...",
+        "ID": "9",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Monitoring crowd flows at events",
+        "Clusters_auto": "People flow, Traffic Management, Accessibility",
+        "Topics_auto": "Events, Entrance / exit, Mobility management, Security, Real-time data"
+    },
+    {
+        "row": "28",
+        "Description": "How can we enable more co-creation with upcoming mobility plans and changes. How can we enable certain areas as pilotareas where we can test new forms of interacting with mobility.",
+        "ID": "26",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Pilotareas for co-creating mobility plans",
+        "Clusters_auto": "Planning , Traffic Management",
+        "Topics_auto": "Co-creation, Mobility planning, Pilotareas"
+    },
+    {
+        "row": "29",
+        "Description": "The stop principle stands for Stappen - trappen - OV - Personenwagen, which means making sure people take the appropiate transportation means according to the distance and density of that specific area. How to incetivize this modal shift is one the main mobility challenges in the city. Having access to all forms of transportation is definitely part of this.",
+        "ID": "22",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Promote the STOP-principle (stap-trap-OV-persoonswagen)",
+        "Clusters_auto": "Modal shift, Awareness, Traffic Management, Energy",
+        "Topics_auto": "Transportation mean, Access, Incentive, Promote cycling"
+    },
+    {
+        "row": "30",
+        "Description": "Monitoring traffic intensity and have more realtime insights so we have a smart traffic management",
+        "ID": "17",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Real-time traffic management",
+        "Clusters_auto": "Traffic Management",
+        "Topics_auto": "Intensity, Real-time insight, Smart traffic management"
+    },
+    {
+        "row": "31",
+        "Description": "Reducing fine dust contribuition in winter because 63% comes from woodburning in classic fireplaces in Ghent",
+        "ID": "36",
+        "Theme": "Environment",
+        "City": "Gent",
+        "Title": "Reduce fine dust from woodburning",
+        "Clusters_auto": "Air Quality, Energy",
+        "Topics_auto": "Fine dust, Woodburning, Fireplace"
+    },
+    {
+        "row": "32",
+        "Description": "Certain densely populated neighbourhoods have a real issue with waste management. First seperating types of waste is hard in tiny buildings due to lack in space and the narrow street prevent bigger wastetrucks to do a decent clean up job. The challenge is here were to pland these underground wastesystems without touching other infrastructure (water / gas / electricity / internet / sewering)",
+        "ID": "44",
+        "Theme": "Waste",
+        "City": "Gent",
+        "Title": "Stimulate waste management in city",
+        "Clusters_auto": "Waste , Community , Planning ",
+        "Topics_auto": "Neighbourhood, Underground wastesystem, Waste management, Separating system"
+    },
+    {
+        "row": "33",
+        "Description": "Monitoring of watercourses (using sensors and community interest groups) to identify irregular pollution incidents and help locate their source",
+        "ID": "32",
+        "Theme": "Water",
+        "City": "Bradford",
+        "Title": "Monitoring watercourses",
+        "Clusters_auto": "Sensors, Water level, Community ",
+        "Topics_auto": "Community interest groups, Pollution, Watercourse"
+    },
+    {
+        "row": "34",
+        "Description": "Use fixed point photography at locations of interest, for example flooding. QR codes are mounted at relevant locations to explain the issue and allow public to take and upload georeferenced / time stamped photographs for analysis.",
+        "ID": "35",
+        "Theme": "Water ",
+        "City": "Bradford",
+        "Title": "Warning system for water levels",
+        "Clusters_auto": "Crowdsourcing, Awareness",
+        "Topics_auto": "Fixed point photography, QR-codes, Georeferenced photographs, Time stamped photographs, Flooding"
+    },
+    {
+        "row": "35",
+        "Description": "Provide real-time information on temporary bicycle storages on events",
+        "ID": "5",
+        "Theme": "Mobility",
+        "City": "Gent",
+        "Title": "Temporary bicyle storages at events",
+        "Clusters_auto": "Bicycles, Tracking, Sensors",
+        "Topics_auto": "Bicycle storage, Temporary, Real-time data, Promote cycling"
+    },
+    {
+        "row": "36",
+        "Description": "Monitoring air and water quality to create awareness about public health ",
+        "ID": "37",
+        "Theme": "Environment",
+        "City": "Gothenburg",
+        "Title": "Air & water quality awareness",
+        "Clusters_auto": "Air Quality, Water level, Awareness",
+        "Topics_auto": "Public health"
+    },
+    {
+        "row": "37",
+        "Description": "Visualise the city in a digital twin to have a better view on city development ",
+        "ID": "40",
+        "Theme": "Environment",
+        "City": "Gothenburg",
+        "Title": "Digital twin for city development",
+        "Clusters_auto": "City development , Planning ",
+        "Topics_auto": "Digital twin, City development"
+    },
+    {
+        "row": "38",
+        "Description": "Citizen engagement is a must but it´s hard to find a smart way to display how the citizen can be a contributor and when they cannot. We want to  be able to display but also interact with our citizens in a digital manner.",
+        "ID": "49",
+        "Theme": "Meta",
+        "City": "Gothenburg",
+        "Title": "Encouraging citizen engagement",
+        "Clusters_auto": "Engagement",
+        "Topics_auto": "Display, Encouragement, Citizen engagement, Interaction"
+    },
+    {
+        "row": "39",
+        "Description": "E-services that are essential for our citizens. What are those and how can we supply the best services and at the same time follow EU standars.",
+        "ID": "51",
+        "Theme": "Meta",
+        "City": "Gothenburg",
+        "Title": "EU-standards for E-services",
+        "Clusters_auto": "EU- standards, Accessibility",
+        "Topics_auto": "E-services, Citizen"
+    },
+    {
+        "row": "40",
+        "Description": "We have a big problem in EU that we don’t use the same services to the citizens for bike sharing and transportation services because of no or low usage of standards. If we can get to 1 bike sharing app / api then we can easly have app creators build better services for our citizens. We as cities need to use the EU standards of sharing data and services.",
+        "ID": "50",
+        "Theme": "Meta",
+        "City": "Gothenburg",
+        "Title": "EU-standards for sharing services",
+        "Clusters_auto": "EU- standards, Bicycles",
+        "Topics_auto": "Bikesharing, Standards, Sharing data, Bike services, Citizen"
+    },
+    {
+        "row": "41",
+        "Description": "We want to be able to display how the waste and water levels are effecting our usage and footprint. The challenge is to get the data out and find a good method of visualizing it to the citizens",
+        "ID": "48",
+        "Theme": "Meta",
+        "City": "Gothenburg",
+        "Title": "Waste and water footprint",
+        "Clusters_auto": "Awareness, Energy, Waste , Water level",
+        "Topics_auto": "Waste Levels, Water Levels, Water Management, Display"
+    },
+    {
+        "row": "42",
+        "Description": "Establishing a low power sensor network to monitor watercourse fluctuations",
+        "ID": "31",
+        "Theme": "Water",
+        "City": "Aberdeen",
+        "Title": "Low power sensor network",
+        "Clusters_auto": "Sensors, Water level, Awareness",
+        "Topics_auto": "Watercourse, Fluctiation, Low power sensor, Sensor network, IoT-data"
+    },
+    {
+        "row": "43",
+        "Description": "Platform establishment for an open dataset of river levels",
+        "ID": "33",
+        "Theme": "Water",
+        "City": "Aberdeen",
+        "Title": "Open dataset river levels",
+        "Clusters_auto": "Water level, Accessibility, Awareness",
+        "Topics_auto": "River levels, Open data, Static data, Real-time data"
+    },
+    {
+        "row": "44",
+        "Description": "Share open data about waste management to create awareness and visualize sustainable challenges for the city",
+        "ID": "46",
+        "Theme": "Waste",
+        "City": "Gothenburg",
+        "Title": "Waste management awareness",
+        "Clusters_auto": "Awareness, Waste ",
+        "Topics_auto": "Open data, Waste management, Sustainability"
+    },
+    {
+        "row": "45",
+        "Description": "Promote automated and connected driving to the cititzens to raise acceptance and therefore increase road safety and innovation",
+        "ID": "30",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Automated and connected driving",
+        "Clusters_auto": "Future driving , Awareness",
+        "Topics_auto": "Automated Driving, Connected driving, Acceptance, Safety"
+    },
+    {
+        "row": "46",
+        "Description": "Improve the safety of cyclists and pedestrians to reduce the number of heavy accidents",
+        "ID": "28",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Cyclist and pedestrian safety",
+        "Clusters_auto": "Accident, People flow, Traffic Management, Bicycles",
+        "Topics_auto": "Safety, Cyclist, Pedestrian, Reduce accidents"
+    },
+    {
+        "row": "47",
+        "Description": "Improve the traffic flow to reduce air and noise pollution",
+        "ID": "18",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Improve traffic flow",
+        "Clusters_auto": "Traffic Management, Air Quality",
+        "Topics_auto": "Traffic Flow, Air pollution, Noise pollution"
+    },
+    {
+        "row": "48",
+        "Description": "Promote cycling to the citizens to change the modal split and become more eco-friendly",
+        "ID": "24",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Promote cycling to citizen",
+        "Clusters_auto": "Modal shift, Awareness, Bicycles, Energy",
+        "Topics_auto": "Promote cycling, Eco-friendly"
+    },
+    {
+        "row": "49",
+        "Description": "Providing road works information to citizens to raise acceptance",
+        "ID": "15",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Provide road works information",
+        "Clusters_auto": "Roads, Traffic Management, Awareness",
+        "Topics_auto": "Acceptance"
+    },
+    {
+        "row": "50",
+        "Description": "Improve the monitoring of road works to optimize operation processes and increase road safety",
+        "ID": "14",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Road works monitoring",
+        "Clusters_auto": "Roads, Traffic Management",
+        "Topics_auto": "Safety, Real-time data, Road works, Operation process"
+    },
+    {
+        "row": "51",
+        "Description": "Forecast traffic jams in the City to prevent them by smart traffic management",
+        "ID": "20",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Smart traffic management (challenge)",
+        "Clusters_auto": "Traffic Management, Modal shift, Sensors",
+        "Topics_auto": "Traffic jam, Prevention, Historical data, Real-time data, Smart traffic management"
+    },
+    {
+        "row": "52",
+        "Description": "Optimizing traffic light control to improve the traffic flow for air quality improvement",
+        "ID": "19",
+        "Theme": "Mobility",
+        "City": "Hamburg",
+        "Title": "Traffic light control",
+        "Clusters_auto": "Traffic Management, Roads, Air Quality",
+        "Topics_auto": "Traffic light , Traffic Flow, Real-time data"
+    }
+]
