@@ -16,7 +16,7 @@ app.get('/score.rdf', (req, res) => {
     return mapToRdf(JSON.stringify(rows));
   }).then((rdf) => {
     res.setHeader('Content-type', 'application/rdf+xml');
-    res.set({ 'Content-Disposition': 'attachment; filename="score.rdf"' });
+    // res.set({ 'Content-Disposition': 'attachment; filename="score.rdf"' });
     res.send(rdf);
   });
 });
