@@ -1,7 +1,9 @@
 import express from 'express';
+import { promises } from 'fs';
 import getData from './fetch.js';
 import { extractRows } from './row.js';
 import { mapToRdf } from './rml/index.js';
+import { DEBUG } from './rml/config.js';
 
 const app = express();
 
@@ -15,9 +17,13 @@ app.get('/score.rdf', (req, res) => {
     const rows = extractRows(filtered);
     return mapToRdf(JSON.stringify(rows));
   }).then((rdf) => {
-    res.setHeader('Content-type', 'application/rdf+xml');
-    // res.set({ 'Content-Disposition': 'attachment; filename="score.rdf"' });
-    res.send(rdf);
+    if (!DEBUG) {
+      res.setHeader('Content-type', 'application/rdf+xml');
+      res.set({ 'Content-Disposition': 'attachment; filename="score.rdf"' });
+      return res.send(rdf);
+    }
+    promises.writeFile('./score.rdf', rdf, { encoding: 'utf-8' });
+    return res.json({ created: 1 });
   });
 });
 
